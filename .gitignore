@@ -37,3 +37,5 @@ Saved/
 *.db
 *.opendb
 *.suo
+.vs/
+DerivedDataCache/
