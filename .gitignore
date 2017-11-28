@@ -33,3 +33,7 @@
 Binaries/
 Intermediate/
 Saved/
+*.sln
+*.db
+*.opendb
+*.suo
